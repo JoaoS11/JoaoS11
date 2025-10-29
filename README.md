@@ -1,7 +1,13 @@
-## Olá, me chamo João Pedro, alguém que sempre busca aprender mais!
+## Olá, me chamo João Pedro, alguém que sempre busca aprender mais👨‍💻!
+
+- Hoje trabalho como Analista de QA!
+- 25 Anos.
+
 <div>
-  <a href="https://github.com/JoaoS11"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoS11&show_icons=true&theme=default&include_all_commits=false&count_private=true"/>
+  <a href="https://github.com/JoãoS11"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoãoS11&show_icons=true&theme=radical"/>
+
+
 
 </div>
 
